@@ -1,6 +1,6 @@
 [//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Weishaypt/Weishaypt/master/assets/cfh.gif?raw=true">]&#40;https://t.me/Weishaypt_aleksey&#41;)
 <div align="center">
-<a href="sanek.dev"><img height="200px" src="./assets/animation.gif" alt="sanek.dev"/></a>
+<a href="https://github.com/Shuffle-5/Shuffle-5/blob/main/animation.gif"><img height="200px" src="./animation.gif" alt="Shuffle-5"/></a>
 </div>
 
 <div align="center">
