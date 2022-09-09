@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="./assets/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! <img src="./Hi.gif" width="30"></h2>
 <a href="https://vk.com/shuffle5" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2300acee.svg?color=0077ff&style=for-the-badge&logo=vk&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
