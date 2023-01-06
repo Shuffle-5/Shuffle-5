@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Shuffle-5"><img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuffle-5&layout=compact&langs_count=8&theme=gotham&hide_border=true"  width="45%" alt="@Shuffle-5's stats"/></a>
-<a href="https://github.com/Shuffle-5?tab=achievements"><img height="250em" src="https://github-profile-trophy.vercel.app/?username=Shuffle-5&theme=onestar&no-frame=true&column=3&row=2"  width="45%" alt="@Shuffle-5's trophy stats"/></a>
+<a href="https://wakatime.com/@Shuffle5"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shuffle5&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Shuffle5's wakatime stats"/></a>
+<a href="https://github.com/Shuffle5?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Shuffle5&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Shuffle5's trophy stats"/></a>
 </p>
 
 
